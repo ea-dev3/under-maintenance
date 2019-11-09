@@ -1,76 +1,199 @@
-# gatsby-starter-eventually
+<!--
+*** Thanks for checking out this README Template. If you have a suggestion that would
+*** make this better, please fork the repo and create a pull request or simply open
+*** an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-Gatsby.js V2 starter template based on eventually by HTML5 UP
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-![Screenshot](./src/assets/img/eventually.jpg)
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/ea-dev3">
+    <img src="./src/assets/img/website-icon.png" alt="Logo" width="200" height="200">
+  </a>
 
-Check online preview [here](https://anubhavsrivastava.github.io/gatsby-starter-eventually/)
+  <h2 align="center"> Prelaunch </h2>
 
-## Screenshot
+  <p align="center">
+    A prelaunch landing page 
+    <br />
+    <a href="https://github.com/ea-dev3/under-maintainance"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/ea-dev3/under-maintainance">View Demo</a>
+    ·
+    <a href="https://github.com/ea-dev3/under-maintainance/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/ea-dev3/under-maintainance/issues">Request Feature</a>
+  </p>
+</p>
 
-![Screenshot](./src/assets/img/demo.png)
+<!-- TABLE OF CONTENTS -->
 
-## Install
+## Table of Contents
 
-Make sure that you have the Gatsby CLI program installed:
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Features](#features)
+- [Release History](#releasehistory)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+This is a prelaunch landing page :smile:
+
+### Built With
+
+I used the following frameworks and libraries for this appliacation to incease speed of development and security. Here they are:
+
+- [React](https://reactjs.org)
+- [Gatsby js](https://gatsbyjs.org)
+
+<!-- GETTING STARTED -->
+
+## Getting Started
+
+To get started setting up the project locally. Follow guide below:
+
+### Prerequisites
+
+You need to install the following in your local machine.
+
+- npm
 
 ```sh
-npm install --global gatsby-cli
+npm install npm@latest -g
 ```
 
-And run from your CLI:
+- node
 
 ```sh
-gatsby new <site-name> https://github.com/anubhavsrivastava/gatsby-starter-eventually
+npm install node.js@latest -g
 ```
 
-Then you can run it by:
+### Installation
+
+1. Clone the repo
 
 ```sh
-cd gatsby-example-site
+git clone https://github.com/ea-dev3/under-maintainance.git
+```
+
+2. Install NPM packages
+
+```sh
 npm install
-gatsby develop
 ```
 
-### Personalization
+3. Run start script
 
-Edit `config.js` to put up your details
-
-```javascript
-module.exports = {
-  siteTitle: 'Gatsby Starter Eventually', // <title>
-  ...
-  heading: 'Eventually',
-  subHeading:
-    "A simple template for telling the world when you'll launch your next big thing.",
-  socialLinks: [
-    {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    }
-    ...
-  ],
-};
-
+```sh
+npm start
 ```
 
-### Deploying using Github page
+<!-- USAGE EXAMPLES -->
 
-`package.json` has a default script that uses `gh-pages` module to publish on Github pages. Simply running `npm run deploy` would publish the site on github pages.
+## Usage
 
-Additionally, it also has [path-prefix](https://www.gatsbyjs.org/docs/path-prefix/) value set for gatsby config in `config.js`. Change `pathPrefix` to relevant path if your gatsby site is hosted on subpath of a domain, `https://theanubhav.com/somePath/`. If you are hosting it as root site, i.e, `https://theanubhav.com/` , remove the pathPrefix configuration.
+This app is a prelaunch landing page.
 
-### Contribution
+_For a live preview, please refer to the [Documentation](https://github.com/ea-dev3/under-maintainance)_
 
-Suggestions and PRs are welcome!
+<!-- ROADMAP -->
 
-Please create issue or open PR request for contribution.
+## Roadmap
 
-### License
+See the [open issues](https://github.com/ea-dev3/under-maintainance/issues) for a list of proposed features (and known issues).
 
-[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](LICENSE)
+<!-- Release History -->
 
-refer `LICENSE` file in this repository.
+## Features
+
+Some of the features application include:
+
+- [x] Email Optin
+
+## Release History
+
+- 0.1.0
+  - The first proper release
+  - CHANGE: Basic functionality
+- 0.0.1
+  - Work in progress
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+
+## Contact
+
+Eugene Alex - [@ea_dev3](https://twitter.com/ea_dev3) - contact@ea-dev.tech
+
+Prelaunch: [https://github.com/ea-dev3/under-maintainance](https://github.com/ea-dev3/under-maintainance)
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+- [Chatkit](https://github.com/pusher/chatkit-client-js)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/ea-dev3/under-maintainance.svg?style=flat-square
+[contributors-url]: https://github.com/ea-dev3/under-maintainance/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ea-dev3/under-maintainance.svg?style=flat-square
+[forks-url]: https://github.com/ea-dev3/under-maintainance/network/members
+[stars-shield]: https://img.shields.io/github/stars/ea-dev3/under-maintainance.svg?style=flat-square
+[stars-url]: https://github.com/ea-dev3/under-maintainance/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ea-dev3/under-maintainance.svg?style=flat-square
+[issues-url]: https://github.com/ea-dev3/under-maintainance/issues
+[license-shield]: https://img.shields.io/github/license/ea-dev3/under-maintainance.svg?style=flat-square
+[license-url]: https://github.com/ea-dev3/under-maintainance/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/ea-dev-1890a1195/
+[product-screenshot]: ./src/assets/img/screenshot.png
