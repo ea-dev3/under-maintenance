@@ -37,16 +37,9 @@ export class EmailForm extends Component {
           />
 
           <input type="submit" value="Get Notification" />
-          <span className={`${message ? 'visible success' : ''} message`}>
-            {message}
-          </span>
-
-          <input type="submit" value="Get Notification" />
-          <span className={`${message ? 'success' : ''} message`}>
-            {message}
-          </span>
-
-          <div data-netlify-recaptcha="true" />
+          <>
+            <div data-netlify-recaptcha="true" />
+          </>
           <input type="submit" value="Get Notification" />
           <span className={`${message ? 'visible success' : ''} message`}>
             {message}
