@@ -36,7 +36,6 @@ export class EmailForm extends Component {
             placeholder="Email Address"
           />
 
-          <input type="submit" value="Get Notification" />
           <>
             <div data-netlify-recaptcha="true" />
           </>
