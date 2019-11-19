@@ -36,31 +36,21 @@ export class EmailForm extends Component {
             placeholder="Email Address"
           />
 
-<<<<<<< HEAD
           <input type="submit" value="Get Notification" />
           <span className={`${message ? 'visible success' : ''} message`}>
             {message}
           </span>
 
-=======
->>>>>>> Form submission feature
           <input type="submit" value="Get Notification" />
           <span className={`${message ? 'success' : ''} message`}>
             {message}
           </span>
-          <>
-            <div data-netlify-recaptcha="true" />
-          </>
-<<<<<<< HEAD
-          <div data-netlify-recaptcha="true"></div>
-=======
 
           <div data-netlify-recaptcha="true" />
           <input type="submit" value="Get Notification" />
           <span className={`${message ? 'visible success' : ''} message`}>
             {message}
           </span>
->>>>>>> Form submission feature
         </>
       </form>
     );
