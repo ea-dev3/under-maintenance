@@ -19,17 +19,28 @@ export class EmailForm extends Component {
   render() {
     const { message } = this.state;
     return (
-      <form id="signup-form" onSubmit={this.onSubmit} method="post" action="#">
-        <input
-          type="email"
-          name="email"
-          id="email"
-          placeholder="Email Address"
-        />
-        <input type="submit" value="Get Notification" />
-        <span className={`${message ? 'visible success' : ''} message`}>
-          {message}
-        </span>
+      <form
+        id="signup-form"
+        onSubmit={this.onSubmit}
+        method="post"
+        action="#"
+        data-netlify="true"
+        data-netlify-honeypot="bot-field"
+      >
+        <>
+          <input type="hidden" name="bot-feild" value="email" />
+          <input
+            type="email"
+            name="email"
+            id="email"
+            placeholder="Email Address"
+          />
+          <div data-netlify-recaptcha="true" />
+          <input type="submit" value="Get Notification" />
+          <span className={`${message ? 'visible success' : ''} message`}>
+            {message}
+          </span>
+        </>
       </form>
     );
   }
