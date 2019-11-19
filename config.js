@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Under Maintainace', // <title>
-  manifestName: 'Under Maintainace',
+  manifestName: 'Under Maintenace',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#001a33',
@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Ooops! Under maintainance',
+  heading: 'Ooops! Under maintenance',
   subHeading:
     ' Be the first to know when we are live.Tell me where to send the notification',
   socialLinks: [
