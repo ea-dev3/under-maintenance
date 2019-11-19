@@ -179,7 +179,7 @@ Prelaunch: [https://github.com/ea-dev3/under-maintainance](https://github.com/ea
 
 ## Acknowledgements
 
-- [Chatkit](https://github.com/pusher/chatkit-client-js)
+- [Gatsby js](https://gatsbyjs.org)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
