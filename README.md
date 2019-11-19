@@ -21,7 +21,7 @@
     <a href="https://github.com/ea-dev3/under-maintenance"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ea-dev3/under-maintenance">View Demo</a>
+    <a href="https://under-maitenance.netlify.com/">View Demo</a>
     ·
     <a href="https://github.com/ea-dev3/under-maintenance/issues">Report Bug</a>
     ·
