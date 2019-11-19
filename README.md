@@ -1,18 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -33,14 +18,14 @@
   <p align="center">
     A prelaunch landing page 
     <br />
-    <a href="https://github.com/ea-dev3/under-maintainance"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ea-dev3/under-maintenance"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ea-dev3/under-maintainance">View Demo</a>
+    <a href="https://github.com/ea-dev3/under-maintenance">View Demo</a>
     ·
-    <a href="https://github.com/ea-dev3/under-maintainance/issues">Report Bug</a>
+    <a href="https://github.com/ea-dev3/under-maintenance/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ea-dev3/under-maintainance/issues">Request Feature</a>
+    <a href="https://github.com/ea-dev3/under-maintenance/issues">Request Feature</a>
   </p>
 </p>
 
@@ -104,7 +89,7 @@ npm install node.js@latest -g
 1. Clone the repo
 
 ```sh
-git clone https://github.com/ea-dev3/under-maintainance.git
+git clone https://github.com/ea-dev3/under-maintenance.git
 ```
 
 2. Install NPM packages
@@ -125,13 +110,13 @@ npm start
 
 This app is a prelaunch landing page.
 
-_For a live preview, please refer to the [Documentation](https://github.com/ea-dev3/under-maintainance)_
+_For a live preview, please refer to the [Documentation](https://github.com/ea-dev3/under-maintenance)_
 
 <!-- ROADMAP -->
 
 ## Roadmap
 
-See the [open issues](https://github.com/ea-dev3/under-maintainance/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/ea-dev3/under-maintenance/issues) for a list of proposed features (and known issues).
 
 <!-- Release History -->
 
@@ -173,7 +158,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Eugene Alex - [@ea_dev3](https://twitter.com/ea_dev3) - contact@ea-dev.tech
 
-Prelaunch: [https://github.com/ea-dev3/under-maintainance](https://github.com/ea-dev3/under-maintainance)
+Prelaunch: [https://github.com/ea-dev3/under-maintainance](https://github.com/ea-dev3/under-maintenance)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -184,16 +169,16 @@ Prelaunch: [https://github.com/ea-dev3/under-maintainance](https://github.com/ea
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/ea-dev3/under-maintainance.svg?style=flat-square
-[contributors-url]: https://github.com/ea-dev3/under-maintainance/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ea-dev3/under-maintainance.svg?style=flat-square
-[forks-url]: https://github.com/ea-dev3/under-maintainance/network/members
-[stars-shield]: https://img.shields.io/github/stars/ea-dev3/under-maintainance.svg?style=flat-square
-[stars-url]: https://github.com/ea-dev3/under-maintainance/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ea-dev3/under-maintainance.svg?style=flat-square
-[issues-url]: https://github.com/ea-dev3/under-maintainance/issues
-[license-shield]: https://img.shields.io/github/license/ea-dev3/under-maintainance.svg?style=flat-square
-[license-url]: https://github.com/ea-dev3/under-maintainance/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ea-dev3/under-maintenance.svg?style=flat-square
+[contributors-url]: https://github.com/ea-dev3/under-maintenance/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ea-dev3/under-maintenance.svg?style=flat-square
+[forks-url]: https://github.com/ea-dev3/under-maintenance/network/members
+[stars-shield]: https://img.shields.io/github/stars/ea-dev3/under-maintenance.svg?style=flat-square
+[stars-url]: https://github.com/ea-dev3/under-maintenance/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ea-dev3/under-maintenance.svg?style=flat-square
+[issues-url]: https://github.com/ea-dev3/under-maintenance/issues
+[license-shield]: https://img.shields.io/github/license/ea-dev3/under-maintenance.svg?style=flat-square
+[license-url]: https://github.com/ea-dev3/under-maintenance/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ea-dev-1890a1195/
 [product-screenshot]: ./src/assets/img/screenshot.png
