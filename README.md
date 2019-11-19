@@ -158,7 +158,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Eugene Alex - [@ea_dev3](https://twitter.com/ea_dev3) - contact@ea-dev.tech
 
-Prelaunch: [https://github.com/ea-dev3/under-maintainance](https://github.com/ea-dev3/under-maintenance)
+Prelaunch: [https://github.com/ea-dev3/under-maintenance](https://github.com/ea-dev3/under-maintenance)
 
 <!-- ACKNOWLEDGEMENTS -->
 
